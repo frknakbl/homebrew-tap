@@ -29,3 +29,7 @@ brew uninstall --cask frknakbl/tap/quickchat
 ```
 
 Normal kaldırma sohbet oturumunu ve uygulama tercihlerini silmez.
+
+## Lisans
+
+[MIT](LICENSE).
